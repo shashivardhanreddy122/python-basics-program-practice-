@@ -1,0 +1,11 @@
+a=12
+b=13
+if a>b:
+  print("a  greater than b")
+else:
+  print("b  greater than a")
+
+
+
+#using max min 
+print(max(a,b))
