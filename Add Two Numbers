@@ -3,3 +3,12 @@ a=int(input("enter a number "))
 b=int(input("enter a number "))
 c=a+b
 print(f"sum of two numbers {c}")
+
+
+#using lambda functon
+a=lambda a,b:a+b
+print(a(1,3))
+
+
+
+
